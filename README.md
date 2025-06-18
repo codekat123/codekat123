@@ -11,7 +11,8 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=Ahmed-Gaber00&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhmed-Gaber00&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![linkedin badge](https://img.shields.io/badge/Ahmed--Gaber-grey?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ahmed-gaber-509b88359)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed--Gaber-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ahmed-gaber-509b88359)
+
 
 </div>
 
