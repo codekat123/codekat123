@@ -1,4 +1,8 @@
 <div align="center" width="50">
+ <summary><h3>🌟 About Me</h3></summary>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Learning+is+a+lifelong+journey.;Mistakes+are+the+seeds+of+growth.;Dream+big,+achieve+bigger!;&font=Fira%20Code&center=true&width=500&height=50&color=00FF7F&vCenter=true&pause=1000&size=24" />
+</p>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
