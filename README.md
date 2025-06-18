@@ -18,7 +18,12 @@
 
 
 </div>
-![Ahmed's GitHub stats](https://github-readme-stats-yourusername.vercel.app/api?username=Ahmed-Gaber00&show_icons=true&theme=tokyonight)
+
+## 📈 GitHub Activity Summary
+
+- 🔥 Contributions this year: ![Contributions](https://badgen.net/github/commits/Ahmed-Gaber00)
+- 🧠 Public Repos: ![Repos](https://badgen.net/github/repos/Ahmed-Gaber00)
+- 🧑‍💻 Followers: ![Followers](https://badgen.net/github/followers/Ahmed-Gaber00)
 
 
 <hr>
