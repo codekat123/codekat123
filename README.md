@@ -19,11 +19,12 @@
 
 </div>
 
-## 📈 GitHub Activity Summary
 
-- 🔥 Contributions this year: ![Contributions](https://badgen.net/github/commits/Ahmed-Gaber00)
-- 🧠 Public Repos: ![Repos](https://badgen.net/github/repos/Ahmed-Gaber00)
-- 🧑‍💻 Followers: ![Followers](https://badgen.net/github/followers/Ahmed-Gaber00)
+
+## 📊 GitHub Stats
+
+<img src="https://github.com/Ahmed-Gaber00/Ahmed-Gaber00/assets/your_image_id_here/stats.png" width="400"/>
+
 
 
 <hr>
