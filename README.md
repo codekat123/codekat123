@@ -15,6 +15,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&label=)](https://linkedin.com/in/ahmed-gaber-509b88359)
 
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201004967816)
+
 
 
 
