@@ -18,11 +18,8 @@
 
 
 </div>
-## 📊 GitHub Stats
+![Ahmed's GitHub stats](https://github-readme-stats-yourusername.vercel.app/api?username=Ahmed-Gaber00&show_icons=true&theme=tokyonight)
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Gaber00&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Gaber00&layout=compact&theme=tokyonight)
 
 <hr>
 
