@@ -16,7 +16,6 @@
 
 <hr>
 
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -27,6 +26,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
+<!--
 ```dart
 // tools_I_use organized
 
@@ -36,6 +36,6 @@ class About extends Me {
     "BackEnd" : { "Node.js" },
     "Database" : { "MySQL", "SQL Server" },
     "Frontend" : { "HTML", "CSS" },
-    "Tools" : { "Git", "Linux", "VS Code" }
+    "Tools" : { "Git", "Linux", "VS Code", "Data Structures" }
   };
 }
