@@ -21,9 +21,7 @@
 
 
 
-## 📊 GitHub Stats
 
-<img src="https://github.com/Ahmed-Gaber00/Ahmed-Gaber00/assets/your_image_id_here/stats.png" width="400"/>
 
 
 
