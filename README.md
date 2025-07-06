@@ -18,16 +18,17 @@
 ![Totals Hits](https://komarev.com/ghpvc/?username=Ahmed-Gaber00&style=flat&color=orange&label=PROFILE+VIEWS)
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ahmed-gaber-509b88359" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-gaber-509b88359" target="_blank" style="margin-right: 40px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://wa.me/201004968716" target="_blank">
+  <a href="https://wa.me/201004968716" target="_blank" style="margin-right: 40px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
   <a href="mailto:ahmedgaber4371@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
+
 
 
 
