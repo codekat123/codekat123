@@ -17,12 +17,19 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=Ahmed-Gaber00&style=flat&color=orange&label=PROFILE+VIEWS)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&label=)](https://linkedin.com/in/ahmed-gaber-509b88359)
+<div align="left">
+  <a href="https://www.linkedin.com/in/ahmed-gaber-509b88359" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://wa.me/201004968716" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+  </a>
+  <a href="mailto:ahmedgaber4371@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+</div>
 
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201004968716)
 
-
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmedgaber4371@gmail.com)
 
 
 </div>
