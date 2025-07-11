@@ -51,10 +51,7 @@
 
 
 
-<hr>
-
-
-<p align="left">programming languages</p>
+<hr><p align="left">programming languages</p>
 
 ###
 
@@ -68,11 +65,11 @@
 
 ###
 
-<p align="center">Data base</p>
+<p align="left">Data base</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
@@ -82,11 +79,11 @@
 
 ###
 
-<p align="right">Tools</p>
+<p align="left">Tools & fundamentals</p>
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
@@ -105,6 +102,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
 </div>
+
+###
 
 ###
 
