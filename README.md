@@ -17,27 +17,28 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=Ahmed-Gaber00&style=flat&color=orange&label=PROFILE+VIEWS)
 
-<table style="border-collapse: collapse; border: none;">
+<<table border="0">
   <tr>
-    <td style="border: none;">
+    <td>
       <a href="https://www.linkedin.com/in/ahmed-gaber-509b88359" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
       </a>
     </td>
-    <td style="border: none;" width="60"></td>
-    <td style="border: none;">
+    <td width="60"></td>
+    <td>
       <a href="https://wa.me/201004968716" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
       </a>
     </td>
-    <td style="border: none;" width="60"></td>
-    <td style="border: none;">
+    <td width="60"></td>
+    <td>
       <a href="mailto:ahmedgaber4371@gmail.com" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
