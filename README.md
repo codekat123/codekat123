@@ -1,61 +1,100 @@
-<div align="center" width="50">
- <summary><h3>🌟 About Me</h3></summary>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Learning+is+a+lifelong+journey.;Mistakes+are+the+seeds+of+growth.;Dream+big,+achieve+bigger!;&font=Fira%20Code&center=true&width=500&height=50&color=00FF7F&vCenter=true&pause=1000&size=24" />
-</p>
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<h1>Ahmed Gaber</h1>
+<h3>Backend Developer (Python | Django | DRF)</h3>
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+<img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer...;Building+Scalable+APIs;Clean+Architecture+%7C+Async+Systems;&font=Fira%20Code&center=true&width=520&height=50&color=00FF7F&vCenter=true&pause=1000&size=22" />
 
-[![Spotify](https://img.shields.io/badge/-Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/somnathpaul)
-
-
-
-</details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=Ahmed-Gaber00&style=flat&color=orange&label=PROFILE+VIEWS)
+<br>
 
 <p align="center">
+  <a href="https://codekat123.github.io/gabers-code-forge/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="52" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/codekat123" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="52" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/ahmed-gaber-509b88359" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/201004968716" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ahmedgaber4371@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+
+  <a href="mailto:ahmed.gaber.dev@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40"/>
   </a>
 </p>
-
-
-
-
-
-
-
-
 
 </div>
 
+---
 
+## 🧠 Summary
 
+Backend developer specializing in **Python, Django, and Django REST Framework**, experienced in building scalable backend systems including:
 
+- RESTful APIs  
+- Authentication systems (JWT, custom user models)  
+- Real-time applications (WebSockets)  
+- Async processing (Celery + Redis)  
+- Modular and clean backend architecture  
 
+Focused on writing **maintainable, production-ready code**.
 
-<!--
-```dart
-// tools_I_use organized
+---
 
-class About extends Me { 
-  const myTools = {  
-    "ProgrammingLanguages" : { "JavaScript", "TypeScript", "Python" },
-    "BackEnd" : { "Node.js" },
-    "Database" : { "MySQL", "SQL Server" },
-    "Frontend" : { "HTML", "CSS" },
-    "Tools" : { "Git", "Linux", "VS Code", "Data Structures" }
-  };
-}
+## 🛠 Tech Stack
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,redis,docker" />
+</p>
+
+### APIs & Systems
+- Django REST Framework  
+- JWT (SimpleJWT)  
+- Django Channels (WebSockets)  
+- Celery & Redis  
+- RESTful API Design  
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+</p>
+
+### Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,postman,nginx,aws" />
+</p>
+
+---
+
+## 🏆 Experience
+
+**DIGITOPIA – MCIT (AI & Software Competition)**  
+- Collaborated in a fast-paced team environment  
+- Improved communication and adaptability under pressure  
+
+**CIS Team MU – Django Backend Circle**  
+- Recognized as **Top Member**  
+- Built and debugged backend APIs  
+- Strengthened backend architecture and problem-solving skills  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Gaber00&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact
+
+- 📧 ahmed.gaber.dev@gmail.com  
+- 📱 01004968716  
+- 🌍 Sharkia / Cairo  
