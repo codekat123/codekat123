@@ -13,9 +13,6 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://github.com/codekat123" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="52" height="40"/>
-  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/ahmed-gaber-509b88359" target="_blank">
