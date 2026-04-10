@@ -8,20 +8,18 @@
 <br>
 
 <p align="center">
-  <a href="https://codekat123.github.io/gabers-code-forge/" target="_blank">
+  <a href="https://codekat123.github.io/gabers-code-forge/" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/fluency/48/domain.png" width="52" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ahmed-gaber-509b88359" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-gaber-509b88359" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:ahmed.gaber.dev@gmail.com">
+  <a href="mailto:ahmed.gaber.dev@gmail.com" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40"/>
   </a>
 </p>
-
 </div>
 
 ---
