@@ -71,15 +71,6 @@ Backend engineer focused on building **scalable, production-ready systems** usin
 - ⭐ Top Member  
 - Built & debugged real backend systems  
 - Applied clean architecture principles  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Gaber00&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 📫 Contact
