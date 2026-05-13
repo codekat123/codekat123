@@ -10,16 +10,23 @@
 
 <br>
 
+<a href="https://leetcode.com/u/codekat123/" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40" alt="LeetCode"/>
+</a>
+&nbsp;&nbsp;
+
 <a href="https://codekat123.github.io/portfolio/" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/domain.png" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/domain.png" width="40" alt="Portfolio"/>
 </a>
 &nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/ahmed-gaber-509b88359" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
+
 <a href="mailto:ahmed.gaber.dev@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail"/>
 </a>
 
 </div>
